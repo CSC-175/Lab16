@@ -7,7 +7,7 @@ The greatest common factor, or GCF, is the greatest factor that divides two numb
 <img src="GCF_Example.JPG" alt="GCF Example" width="550">
 
 ## Directions
-Complete the given template file lab15.cpp by defining a function named gcf that accepts the two integer inputs as A and B. The function calculates the greatest common value 
+Complete the given template file <b>lab15.cpp</b> by defining a function named gcf that accepts the two integer inputs as A and B. The function calculates the greatest common value 
 for the two values using a recursive call to the gcf function which returns the greatest common factor once it is found.
 
 ## Interface Prototype Example
